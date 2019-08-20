@@ -1,0 +1,14 @@
+h1{
+  color: blue;
+}
+
+#ConvRate{
+  width: 500px;
+  padding: 1px;
+  border: 1px solid blue;
+  margin: 0;
+}
+
+.inline{
+  display : inline;
+}

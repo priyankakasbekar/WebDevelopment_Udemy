@@ -1,0 +1,53 @@
+.top_box{
+  background-image: linear-gradient(to right, white, blue);
+  color: grey;
+  margin:10px;
+  border:10px black;
+  padding:20px;
+}
+.page{
+  background-color: black
+}
+
+span.a{
+  font-size: 10px;
+  font-family:cursive;
+}
+
+.nav_panel{
+  color:green;
+  margin: 10px;
+  border:10px black;
+  padding:20px;
+  position: absolute;
+  left:5px;
+  top:75px;
+  height: 500px;
+  background-color: turquoise;
+  border-radius: 15px;
+}
+
+.nav_panel ul{
+  color:grey;
+}
+
+.lst_item{
+  background-color: green;
+  margin: 5px;
+  border:10px black;
+  padding:5px;
+  width:60px
+  font-size:5px;
+}
+.content_panel{
+  background-color: turquoise;
+  border-radius: 15px;
+  position: absolute;
+  left:175px;
+  top:75px;
+  height: 500px;
+  width:1220px;
+  margin: 10px;
+  border:10px black;
+  padding:20px;
+}
